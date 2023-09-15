@@ -1,0 +1,35 @@
+need test
+
+//perme note
+
+//done check
+quick-select
+get_input
+lowlen_case
+case_5
+
+
+
+//done test
+quick_select
+ft_atoi
+
+// not yet
+
+get_input
+lowlen_case
+full_sort
+utils
+manda_sort
+
+
+
+//note
+lowlen can combine push and printf
+
+need to make newlist addfront in list utils
+
+need to make ft_free_lst for after used duplicated list to get pivot num
+
+/low_lencase
+
